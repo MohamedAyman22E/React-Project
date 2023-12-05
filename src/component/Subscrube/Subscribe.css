@@ -1,0 +1,34 @@
+.subscribe {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)),
+    url("../../assets/images/subscribe_background.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 80vh;
+  text-align: center;
+  padding: 100px 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin: 30px auto;
+}
+form input {
+  border: 2px solid var(--grey-color);
+  margin: 15px 0;
+  border-radius: 50px;
+  padding: 15px;
+  color: #fff;
+}
+form button {
+  padding: 15px;
+  color: #fff;
+  border-radius: 50px;
+  background-color: var(--brown-color);
+}
+@media (max-width: 1000px) {
+  form {
+    width: 70%;
+  }
+}

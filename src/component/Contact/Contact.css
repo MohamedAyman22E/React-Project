@@ -1,0 +1,14 @@
+.contact {
+  margin-top: 100px;
+  text-align: center;
+}
+.contact form input {
+  color: var(--dark-color);
+}
+.contact form textarea {
+  border: 1px solid var(--grey-color);
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 30px;
+  resize: none;
+}

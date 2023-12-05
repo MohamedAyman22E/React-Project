@@ -1,0 +1,12 @@
+.services {
+  text-align: center;
+}
+.serviceList {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(290px, auto));
+  margin-top: 100px;
+  gap: 30px;
+}
+.serviceList .service_img {
+  width: 80px;
+}
