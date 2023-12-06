@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React-Project/static/css/main.dc12d670.css",
+    "main.js": "/React-Project/static/js/main.11d64682.js",
+    "static/media/video.mp4": "/React-Project/static/media/video.6eae90c18b005ec1f39d.mp4",
+    "static/media/header_background.png": "/React-Project/static/media/header_background.a4b0cdcbd3bff09e6979.png",
+    "static/media/work_img_3.png": "/React-Project/static/media/work_img_3.5032d46484f4ff4fe7ee.png",
+    "static/media/work_img_4.png": "/React-Project/static/media/work_img_4.d4ad18e53519546e36f8.png",
+    "static/media/work_img_1.png": "/React-Project/static/media/work_img_1.c96c092d607dc68bb798.png",
+    "static/media/work_img_2.png": "/React-Project/static/media/work_img_2.189a5f3145c3ba268379.png",
+    "static/media/work_img_6.png": "/React-Project/static/media/work_img_6.da33deaccba2ca01cf6e.png",
+    "static/media/work_img_5.png": "/React-Project/static/media/work_img_5.da710bf01b834ee2eb4f.png",
+    "static/media/subscribe_background.jpeg": "/React-Project/static/media/subscribe_background.9055a9d94386e2c448c7.jpeg",
+    "static/media/About_Alex.jpg": "/React-Project/static/media/About_Alex.b9939cc803d239fd8548.jpg",
+    "static/media/logo_img_1.png": "/React-Project/static/media/logo_img_1.56e6302690f664182a9d.png",
+    "static/media/logo_img_6.png": "/React-Project/static/media/logo_img_6.9cb6e0ebf3aadac556f6.png",
+    "static/media/services_img_6.svg": "/React-Project/static/media/services_img_6.6e42843de4b856d698cda12fc549dc8d.svg",
+    "static/media/services_img_3.svg": "/React-Project/static/media/services_img_3.387471ba5d63250a65204770f1628c6d.svg",
+    "static/media/services_img_1.svg": "/React-Project/static/media/services_img_1.8dbb30cc8ad8a5cf12d183466a08088b.svg",
+    "static/media/services_img_5.svg": "/React-Project/static/media/services_img_5.9c6e262d0d477c6ab3e6751c89cb89bf.svg",
+    "static/media/services_img_2.svg": "/React-Project/static/media/services_img_2.6085851215ce21e8e1af1cd7532f62b3.svg",
+    "static/media/services_img_4.svg": "/React-Project/static/media/services_img_4.c4c4a3c1d29dc9b62ae991c422b53011.svg",
+    "index.html": "/React-Project/index.html",
+    "main.dc12d670.css.map": "/React-Project/static/css/main.dc12d670.css.map",
+    "main.11d64682.js.map": "/React-Project/static/js/main.11d64682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc12d670.css",
+    "static/js/main.11d64682.js"
+  ]
+}
